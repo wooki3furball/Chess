@@ -1,6 +1,5 @@
 **********************
-*Author: Michael Bopp*
-**********************
+*Author: Michael Bopp* <br>
 *Last Edited: 8/19/23*
 **********************
 
